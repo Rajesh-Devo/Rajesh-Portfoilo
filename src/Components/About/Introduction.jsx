@@ -27,7 +27,7 @@ export const Introduction = () => {
               <h4>
                 Hi Everyone, I am{" "}
                 <span className="different">Rajesh </span> from{" "}
-                <span className="different"> bangalore, Karnataka</span>. I have
+                <span className="different"> Bangalore, Karnataka</span>. I have
                 completed my Post Graduation in Master of Computer Application from B.I.T College.
       
               </h4>

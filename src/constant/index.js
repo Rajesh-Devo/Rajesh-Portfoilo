@@ -1,6 +1,8 @@
 import currencyConverter from "../Assets/images/currencyConverter.png";
 import themeClock from "../Assets/images/themeClock.png";
 import fastEat from "../Assets/images/fastEat.png";
+import chatApp from "../Assets/images/chatApp.png";
+
 
 export const prjs=[
     { 
@@ -25,10 +27,10 @@ export const prjs=[
     live:"https://food-recipe-app-alpha.vercel.app/"
 },
 { 
-    name:"currency-converter4",
-    description:" Currency exchange API is used in the script file.",
-    image:currencyConverter,
-    github:"https://github.com/Rajesh-Devo/Currency-converter",
+    name:"let's Connect",
+    description:"Worked on end-to-end integration and implementation also created different modules for better understanding of user.",
+    image:chatApp,
+    github:"https://github.com/Rajesh-Devo/social-media-mern-app",
     live:""
 },
 ]
