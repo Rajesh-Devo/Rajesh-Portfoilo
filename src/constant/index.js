@@ -2,6 +2,7 @@ import currencyConverter from "../Assets/images/currencyConverter.png";
 import themeClock from "../Assets/images/themeClock.png";
 import fastEat from "../Assets/images/fastEat.png";
 import chatApp from "../Assets/images/chatApp.png";
+import newsApp from "../Assets/images/news.png";
 
 
 export const prjs=[
@@ -31,6 +32,13 @@ export const prjs=[
     description:"Worked on end-to-end integration and implementation also created different modules for better understanding of user.",
     image:chatApp,
     github:"https://github.com/Rajesh-Devo/social-media-mern-app",
+    live:""
+},
+{ 
+    name:"newsApp",
+    description:"lets you go beyond the capabilities of touch-type interfaces and add a conversational experience for any workflow or function in your app.",
+    image:newsApp,
+    github:"https://github.com/Rajesh-Devo/newsApp",
     live:""
 },
 ]
