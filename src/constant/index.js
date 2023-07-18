@@ -3,7 +3,7 @@ import themeClock from "../Assets/images/themeClock.png";
 import fastEat from "../Assets/images/fastEat.png";
 import chatApp from "../Assets/images/chatApp.png";
 import newsApp from "../Assets/images/news.png";
-
+import zegocloud from "../Assets/images/zegocloud.png";
 
 export const prjs=[
     { 
@@ -38,6 +38,13 @@ export const prjs=[
     name:"newsApp",
     description:"lets you go beyond the capabilities of touch-type interfaces and add a conversational experience for any workflow or function in your app.",
     image:newsApp,
+    github:"https://github.com/Rajesh-Devo/newsApp",
+    live:""
+},
+{ 
+    name:"ZegoCloud",
+    description:"It  enables enterprises and developers to easily and quickly obtain real-time audio and video communication capabilities by integrating a single SDK. ",
+    image:zegocloud,
     github:"https://github.com/Rajesh-Devo/newsApp",
     live:""
 },
