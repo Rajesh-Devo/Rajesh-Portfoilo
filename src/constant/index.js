@@ -45,7 +45,7 @@ export const prjs=[
     name:"ZegoCloud",
     description:"It  enables enterprises and developers to easily and quickly obtain real-time audio and video communication capabilities by integrating a single SDK. ",
     image:zegocloud,
-    github:"https://github.com/Rajesh-Devo/newsApp",
+    github:"https://github.com/Rajesh-Devo/Zegocloud",
     live:""
 },
 ]
